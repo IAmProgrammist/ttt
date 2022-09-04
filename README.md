@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1c5ysrjsaci3gk3x?svg=true)](https://ci.appveyor.com/project/Ferrk/card-order)
+[![Build status](https://ci.appveyor.com/api/projects/status/vv7apqormw50mtlh/branch/master?svg=true)](https://ci.appveyor.com/project/olga-maev/patterns2/branch/master)

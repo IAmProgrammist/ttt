@@ -22,8 +22,9 @@ public class WebTest {
     void setUpTest() {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--disable-dev-shm-usage");
-        options.addArguments("--no-sandbox");
-        options.addArguments("--headless");
+        //options.addArguments("--no-sandbox");
+        //options.addArguments("--headless");
+        options.addArguments("--remote-debugging-port=9999");
         driver = new ChromeDriver(options);
         driver.get("http://localhost:9999");
     }

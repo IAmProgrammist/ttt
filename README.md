@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f040tt3bpch9e055/branch/master?svg=true)](https://ci.appveyor.com/project/Algusb/carddelivery/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/n2aqw3kee8me47fo?svg=true)](https://ci.appveyor.com/project/chaika1986/patt-1-delivery-w4hl1)

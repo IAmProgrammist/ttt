@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/n2aqw3kee8me47fo?svg=true)](https://ci.appveyor.com/project/chaika1986/patt-1-delivery-w4hl1)
+[![Build status](https://ci.appveyor.com/api/projects/status/8fan4otxsd6l05sr?svg=true)](https://ci.appveyor.com/project/Nikitaram95/seleniumv2)

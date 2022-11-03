@@ -1,5 +1,8 @@
+Thumbs.db*
+.DS_Store
 HELP.md
 .gradle
+\.gradle
 build/
 
 ### STS ###
@@ -13,6 +16,7 @@ build/
 
 ### IntelliJ IDEA ###
 .idea
+\.idea
 *.iws
 *.iml
 *.ipr

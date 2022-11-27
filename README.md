@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/r6u87buttqnsp23q?svg=true)](https://ci.appveyor.com/project/anastasiyanovaya/patternstestmode)
+[![Build status](https://ci.appveyor.com/api/projects/status/b6u262ayq6wmeq4k?svg=true)](https://ci.appveyor.com/project/Berendoska/carddeliveryfaker)
+[![Build status](https://ci.appveyor.com/api/projects/status/b6u262ayq6wmeq4k/branch/main?svg=true)](https://ci.appveyor.com/project/Berendoska/carddeliveryfaker/branch/main)
